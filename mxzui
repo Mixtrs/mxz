@@ -556,7 +556,7 @@ function MXZLIB:MakeWindow(WindowConfig)
 				Size = UDim2.new(0, 32, 0, 32),
 				Position = UDim2.new(0, 10, 0.5, 0)
 			}), {
-				SetProps(MakeElement("Image", "https://www.roblox.com/headshot-thumbnail/image?userId=".. LocalPlayer.UserId .."&width=420&height=420&format=png"), {
+				SetProps(MakeElement("Image", "https://media.discordapp.net/attachments/1263887918682996756/1268033346659815444/swervehubpfp.png?ex=66aaf394&is=66a9a214&hm=66da47a56c981c47f9f775768daf6ed445b2164473dc735131d843a3e4e2521e&=&format=webp&quality=lossless&width=625&height=625"), {
 					Size = UDim2.new(1, 0, 1, 0)
 				}),
 				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://4031889928"), {
